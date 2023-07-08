@@ -1,2 +1,2 @@
 # NimbusDB
-A in memory KV database written in C++
+A in memory KV database written in Go
